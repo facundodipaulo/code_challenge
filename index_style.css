@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(50, 255, 108, 0.789);
+}
+.caja_form{
+    background-color: aquamarine;
+    width: 70vb;
+    height: auto;
+    border-radius: 50px;
+    padding: 5vb;
+    border-color: black;
+    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    background-color: rgb(183, 255, 0);
+    border-radius: 50px;
+    border-color: blue;
+    margin-left: 25vb;
+}
+button:hover{
+    background-color: rgb(255, 255, 0);
+    transition: 0.5s;
+    cursor: pointer;
+}
